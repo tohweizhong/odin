@@ -1,4 +1,3 @@
-# odin
+#odin
 
-Hello Odin!
-
+My frontend development learning journey
